@@ -2,3 +2,36 @@ html {
   height: 100%;
   width: 100%;
 }
+tr {
+  height: 100%;
+  width: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 25;
+  color: #DDA15E;
+}
+li {
+  padding: 0;
+  margin: 0;
+} 
+strong {
+  color: #DDA15E;
+}
+h1 {
+  color: #DDA15E;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: #332413;
+}   
